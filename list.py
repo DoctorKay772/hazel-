@@ -36,7 +36,6 @@ print(b)
 a.remove(1)
 print(a)
 
-
 # length()
 print(len(a))
 # # sum()
